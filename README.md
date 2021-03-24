@@ -2,10 +2,12 @@
 Simple react template bootstrapped with the necessary folder structure for your project.
 
 **Getting Started**
-Ensure you've followed the ReactJS - Getting Started Guide
-Clone this project git clone https://github.com/LaughingRover/react-template-starter.git
-Run npm install from root directory to install dependencies
-Run npm start from root directory
+<ol>
+  <li>Ensure you've followed the ReactJS - [Getting Started Guide](https://reactjs.org/docs/getting-started.html) </li>
+  <li>Clone this project git clone https://github.com/LaughingRover/react-template-starter.git</li>
+  <li>Run npm install from root directory to install dependencies</li>
+  <li>Run npm start from root directory</li>
+</ol>
 
 **Folder Structure**
 <ul>
