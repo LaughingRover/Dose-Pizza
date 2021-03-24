@@ -1,5 +1,5 @@
 # react-template-starter
-Simple react template bootstrapped with the necessary folder structure for your project.
+Simple template bootstrapped with the necessary folder structure for react projects.
 
 ## Getting Started
 1. Ensure you've followed the ReactJS - [Getting Started Guide](https://reactjs.org/docs/getting-started.html)
