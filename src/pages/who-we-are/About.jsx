@@ -1,9 +1,9 @@
 import React, { react } from 'react'
 
-const _404 = () => {
+const About = () => {
 
 	return (
 		<React.Fragment />
 	)
 
-};  export default _404
+};  export default About
