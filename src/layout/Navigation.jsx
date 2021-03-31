@@ -31,7 +31,6 @@ const StyledNavLink =  styled(NavLink)`
 		bottom: -5px;
 		background: ${Colors.torquoise};
 		transition: 300ms;
-
 	}
 
 	&:hover::before {
